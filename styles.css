@@ -1,0 +1,190 @@
+.color-primary{
+    color: #1c3c92!important;
+}
+
+.data-slogan{
+    color: #1c3c92!important;
+}
+
+.button{
+    border-color: #1c3c92!important;
+    background-color: #1c3c92!important;
+    color: #fff!important;
+}
+
+.menu-button{
+    background-color: #1c3c92!important;
+}
+
+.brand{
+    font-size: 25px
+}
+
+.count-number{
+    color: #1c3c92!important;
+}
+
+.hero-single-image{
+    background-image: url(truck.png)!important;
+}
+
+.w-nav-link:hover{
+    color: #1c3c92!important;
+}
+
+.heightz{
+    height: 150px!important;
+}
+
+.hyphen-pink{
+    background-color: #658CBB!important;
+}
+
+.hyphen-green{
+    background-color: #3C86E0!important;
+}
+
+.body{
+    width: 100%!important;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.section-counter{
+    width: 100%!important;
+}
+
+.section-testimonial{
+    width: 100%!important;
+    margin-left: 0!important;
+    margin-right: 20!important;
+    padding-left: 0!important;
+    padding-right: 20!important;
+}
+
+.small-text:hover{
+    color: #1c3c92!important;
+}
+
+.media-text:hover{
+    color: #1c3c92!important;
+}
+
+.data-list-item{
+    height: 600px!important;
+    width: 420px!important;
+}
+
+.intro-image-large{
+    background-image: url(lisanto-OcAoMz6TJF8-unsplash.jpg)!important;
+}
+
+.investor-image-large{
+    background-image: url(freestocks-9nxbSS-lK1o-unsplash.jpg)!important;
+}
+
+.section-solutions{
+    margin-top: -200px!important;
+}
+
+.section-articles{
+    margin-top: 150px!important;
+}
+
+.blog-slide-item{
+    width: 475px!important;
+}
+
+.blog-title:hover{
+    color: #1c3c92!important;
+}
+
+.line-5{
+    background-color: #1c3c92!important;
+}
+
+.footer-social-media{
+    margin-left: 60rem;
+}
+
+.nav-link.w--current {
+    color:#1c3c92!important;
+}
+
+.w-webflow-badge{
+    display: none!important;
+}
+
+.project-gradient{
+    background-image: none!important;
+}
+
+.container {
+    width: 100vw!important;
+    max-width:none!important;
+    padding-left: 20px!important;
+}
+.section-counter{
+    padding-bottom: 0px!important;
+    padding-left: 40px!important;
+}
+
+/* /* .container {
+    width: 100vw!important;
+    max-width:none!important;
+    margin-right: 0%!important;
+    margin-left:0%!important;
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+} */
+
+.section-counter{
+    padding-bottom: 0px!important;
+}
+
+footer{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.section-hero{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/* .section-counter{
+    padding-right: 40px;
+    padding-left: 40px;
+} */
+
+.section-services{
+    padding-left: 20px;
+}
+
+.section-solutions{
+    padding-left: 20px;
+}
+
+.section-articles{
+    padding-left: 20px;
+}
+
+.left{
+    padding-left: 20px!important;
+}
+
+.location-image {
+    position: absolute!important;
+    right: 110px!important;
+    bottom: -52px!important;
+    z-index: 1!important;
+}
+
+.delivery-image {
+    position: absolute!important;
+    left: 110px!important;
+    bottom: -52px!important;
+    z-index: 1!important;
+}
