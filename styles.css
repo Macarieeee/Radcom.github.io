@@ -24,6 +24,15 @@
     color: #1c3c92!important;
 }
 
+.data-slider-item{
+    height: auto!important;
+}
+
+.data-collection-mask{
+    height: auto!important;
+    padding-bottom: 15vh!important;
+}
+
 .hero-single-image{
     background-image: url(truck.png)!important;
 }
@@ -73,8 +82,10 @@
 }
 
 .data-list-item{
-    height: 600px!important;
-    width: 420px!important;
+    height: auto!important;
+    width: auto!important;
+    padding-right: 5vh!important;
+    padding-left: 5vh!important;
 }
 
 .intro-image-large{
@@ -89,8 +100,14 @@
     margin-top: -200px!important;
 }
 
+.blog-wrapper{
+    height: auto!important;
+}
+
 .section-articles{
+    margin-bottom: -20vh!important;
     margin-top: 150px!important;
+    height: auto!important;
 }
 
 .blog-slide-item{
@@ -121,11 +138,12 @@
     background-image: none!important;
 }
 
-.container {
+/* .container {
     width: 100vw!important;
     max-width:none!important;
-    padding-left: 20px!important;
-}
+    padding-right: 0!important;
+} */
+
 .section-counter{
     padding-bottom: 0px!important;
     padding-left: 40px!important;
@@ -144,20 +162,12 @@
     padding-bottom: 0px!important;
 }
 
-footer{
-    padding-right: 20px;
-    padding-left: 20px;
-}
 
 .section-hero{
-    padding-right: 20px;
     padding-left: 20px;
 }
 
-/* .section-counter{
-    padding-right: 40px;
-    padding-left: 40px;
-} */
+
 
 .section-services{
     padding-left: 20px;
@@ -187,4 +197,8 @@ footer{
     left: 110px!important;
     bottom: -52px!important;
     z-index: 1!important;
+}
+
+.footer{
+    padding-bottom: 0!important;
 }
